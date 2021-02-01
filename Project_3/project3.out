@@ -1,0 +1,362 @@
+The Video Store:
+----------------
+Company: 
+---------
+Saunders_Video_Emporium 4502_Jefferson_Ave Detroit MI 48207 313-555-2222 Employees:
+----------
+E0001 Jones Tom 123_B_Street Southfield   MI 48223 0
+
+11.50 E0002 Baker Robert 151_Cass_Avenue   Detroit MI 0
+
+313-333-2222 10.50 E0003 Sloan John   15669_Davison_Avenue Detroit 0
+
+48204 313-333-2222 10.50 E0004 Baker   Lance 1283_Middlebelt_Road 0
+
+MI 48204 313-333-2222 10.50 E0005   Vance Richard 0
+
+Livonia MI 48204 313-333-2222 10.50   E0006 Mitchell 0
+
+111_Harper_Avenue Detroit MI 48204 313-333-2222   10.50 E0007 0
+
+Tom 130_Lafayette_Apt_12 Farmington_Hills MI 48204   313-333-2222 10.50 0
+
+Bell David 53_Van_Dyke_Avenue Detroit MI   48204 313-333-2222 0
+
+E0009 Martin Kevin 992_Madison_Blvd Detroit   MI 48204 0
+
+10.50 E0010 Sanders Rachel 355_Winchester   Ontario IN 0
+
+313-333-2222 10.50 E0011 Sanford Todd   13_Mack_Avenue Ontario 0
+
+48204 313-333-2222 10.50 E0012 Hesford   Lois 4545_Seminole_Ave 0
+
+MI 48204 313-333-2222 10.50 E0013   Cheung Rita 0
+
+Detroit MI 48204 313-333-2222 10.50   E0014 Liu 0
+
+195_Lasher_Road Southfield MI 48204 313-333-2222   10.50 E0015 0
+
+Anil 513_Dickerson Detroit MI 48204   313-333-2222 10.50 0
+
+Sherhan Sheresh 444_First_Street Livonia MI   48204 313-333-2222 0
+
+E0017 Casey Pat 1253_San_Jose_Ave Wyandotte   MI 48204 0
+
+10.50 E0018 Winfry Opal 15599_Vincia_Blvd   Ann_Arbor MI 0
+
+313-333-2222 10.50 E0019 Bush Martha   1492_Columbus_Blvd Cleveland 0
+
+48204 313-333-2222 10.50 E0020 McClain   Sharon 7878_Golden_Avenue 0
+
+OH 48204 313-333-2222 10.50 McClain   Sharon 7878_Golden_Avenue 0
+
+STORE: 
+---------
+Customers:
+----------
+         //
+
+The Films:
+----------
+F0001 Gone_With_the_Wind 1935 NR Drama 
+
+F0002 Gone_With_the_Wind 1935 NR Drama 
+
+F0003 Star_Wars 1979 PG Science_Fiction 
+
+F0004 Star_Wars 1979 PG Science_Fiction 
+
+F0005 The_Empire_Strikes_Back 1981 PG Science_Fiction 
+
+F0006 The_Empire_Strikes_Back 1981 PG Science_Fiction 
+
+F0007 The_Empire_Strikes_Back 1981 PG Science_Fiction 
+
+F0008 The_Return_of_the_Jedi 1983 PG Science_Fiction 
+
+F0009 The_Return_of_the_Jedi 1983 PG Science_Fiction 
+
+F0010 The_Return_of_the_Jedi 1983 PG Science_Fiction 
+
+F0011 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0012 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0013 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0014 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0015 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0016 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0017 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0018 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0019 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0020 The_Phantom_Menace 1999 PG Science_Fiction 
+
+F0021 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0022 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0023 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0024 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0025 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0026 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0027 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0028 The_Whole_Nine_Yards 2000 R Comedy 
+
+F0029 Anna_and_the_King 1999 PG13 Drama 
+
+F0030 Anna_and_the_King 1999 PG13 Drama 
+
+F0031 Anna_and_the_King 1999 PG13 Drama 
+
+F0032 Anna_and_the_King 1999 PG13 Drama 
+
+F0033 Anna_and_the_King_of_Siam 1946 NR Drama 
+
+F0034 Angela's_Ashes 1999 R Drama 
+
+F0035 Angela's_Ashes 1999 R Drama 
+
+F0036 Angela's_Ashes 1999 R Drama 
+
+F0037 Angela's_Ashes 1999 R Drama 
+
+F0038 American_Beauty 1999 R Comedy 
+
+F0039 American_Beauty 1999 R Comedy 
+
+F0040 American_Beauty 1999 R Comedy 
+
+F0041 American_Beauty 1999 R Comedy 
+
+F0042 American_Beauty 1999 R Comedy 
+
+F0043 The_Godfather 1972 R Drama 
+
+F0044 Anaconda 1997 PG13 Horror 
+
+F0045 Anaconda 1997 PG13 Horror 
+
+F0046 Anaconda 1997 PG13 Horror 
+
+F0047 King_Kong 1933 NR Horror 
+
+F0048 Baby_Geniuses 1999 PG Comedy 
+
+F0049 Baby_Geniuses 1999 PG Comedy 
+
+F0050 Batman_3 1995 PG13 Drama 
+
+F0051 Batman_3 1995 PG13 Drama 
+
+F0052 Batman_3 1995 PG13 Drama 
+
+F0053 Batman_4 1997 PG13 Drama 
+
+F0054 Batman_4 1997 PG13 Drama 
+
+F0055 Batman_4 1997 PG13 Drama 
+
+F0056 Batman_4 1997 PG13 Drama 
+
+F0057 Beetoven's_Second 1993 PG Comedy 
+
+F0058 Breakfast_at_Tiffany's 1961 NR Comedy 
+
+F0059 Double_Jeopardy 1999 R Mystery 
+
+F0060 Double_Jeopardy 1999 R Mystery 
+
+F0061 Double_Jeopardy 1999 R Mystery 
+
+F0062 Double_Jeopardy 1999 R Mystery 
+
+F0063 Twister 1996 NR Drama 
+
+F0064 Twister 1996 NR Drama 
+
+F0065 Twister 1996 NR Drama 
+
+F0066 Twister 1996 NR Drama 
+
+F0067 Twister 1996 NR Drama 
+
+F0068 Citizen_Kane 1941 NR Drama 
+
+F0069 Titanic 1997 PG13 Drama 
+
+F0070 Titanic 1997 PG13 Drama 
+
+F0071 Titanic 1997 PG13 Drama 
+
+F0072 Titanic 1997 PG13 Drama 
+
+F0073 Titanic 1997 PG13 Drama 
+
+F0074 Titanic 1997 PG13 Drama 
+
+F0075 La_Promesse 1997 NR Foreign 
+
+F0076 Underground 1997 NR Foreign 
+
+F0077 Gabbeh 1997 NR Foreign 
+
+F0078 Face/Off 1997 NR Foreign 
+
+F0079 A_Love_Story 1997 NR Foreign 
+
+F0080 Sicilia 1999 NR Foreign 
+
+F0081 Being_John_Malkovich 1999 R Drama 
+
+F0082 The_Hurricane 1999 NR Drama 
+
+F0083 The_Hurricane 1999 NR Drama 
+
+F0084 The_Hurricane 1999 NR Drama 
+
+F0085 The_Hurricane 1999 NR Drama 
+
+F0086 An_American_Tail 1986 G Animated 
+
+F0087 Who_Framed_Roger_Rabbit 1988 G Animated 
+
+F0088 Turbo:_A_Power_Rangers_Movie 2000 PG Fantasy 
+
+F0089 Evita 1996 PG Musical 
+
+F0090 Evita 1996 PG Musical 
+
+F0091 Evita 1996 PG Musical 
+
+F0092 Paper_Man 1999 NR Short 
+
+F0093 The_Phantom_of_the_Opera 1925 NR Silent 
+
+F0094 Life_is_Beautiful 1998 PG Foreign 
+
+F0095 Life_is_Beautiful 1998 PG Foreign 
+
+F0096 Life_is_Beautiful 1998 PG Foreign 
+
+F0097 Shakespere_in_Love 1998 PG13 Comedy 
+
+F0098 Shakespere_in_Love 1998 PG13 Comedy 
+
+F0099 Shakespere_in_Love 1998 PG13 Comedy 
+
+F0100 Saving_Private_Ryan 1998 PG13 Drama 
+
+F0101 Saving_Private_Ryan 1998 PG13 Drama 
+
+F0102 The_Sixth_Sense 1999 PG13 Mystery 
+
+F0103 The_Sixth_Sense 1999 PG13 Mystery 
+
+F0104 The_Sixth_Sense 1999 PG13 Mystery 
+
+F0105 Magnolia 1999 PG13 Drama 
+
+F0106 Magnolia 1999 PG13 Drama 
+
+F0107 Magnolia 1999 PG13 Drama 
+
+F0107 Magnolia 1999 NR NoCategory 
+
+The Film Rentals:
+-----------------
+C0001 F0003 2/19/00 16:21 //
+
+C0001 F0005 2/19/00 16:22 //
+
+C0001 F0008 2/19/00 16:23 //
+
+C0001 F0011 2/19/00 16:24 //
+
+C0005 F0012 2/19/00 17:21 //
+
+C0005 F0022 2/19/00 17:22 //
+
+C0005 F0045 2/19/00 17:23 //
+
+C0008 F0068 2/19/00 17:24 //
+
+C0008 F0096 2/19/00 17:25 //
+
+C0010 F0063 2/19/00 17:26 //
+
+C0010 F0105 2/19/00 17:27 //
+
+C0013 F0042 2/19/00 17:28 //
+
+C0014 F0031 2/19/00 18:21 //
+
+C0014 F0050 2/19/00 18:22 //
+
+C0014 F0060 2/19/00 18:23 //
+
+C0014 F0104 2/19/00 18:24 //
+
+C0015 F0043 2/19/00 18:25 //
+
+C0015 F0046 2/19/00 18:26 //
+
+C0019 F0106 2/19/00 18:27 //
+
+C0020 F0021 2/19/00 18:28 //
+
+C0020 F0030 2/19/00 18:29 //
+
+C0024 F0032 2/19/00 18:30 //
+
+C0024 F0033 2/19/00 18:31 //
+
+C0026 F0037 2/19/00 18:32 //
+
+C0026 F0062 2/19/00 18:33 //
+
+C0026 F0090 2/19/00 18:34 //
+
+C0026 F0092 2/19/00 18:35 //
+
+C0026 F0093 2/19/00 18:36 //
+
+C0027 F0097 2/19/00 19:21 //
+
+C0027 F0100 2/19/00 19:22 //
+
+C0027 F0102 2/19/00 19:23 //
+
+C0028 F0035 2/19/00 19:24 //
+
+C0028 F0039 2/19/00 19:25 //
+
+C0029 F0049 2/19/00 19:26 //
+
+C0029 F0055 2/19/00 19:27 //
+
+C0031 F0028 2/19/00 19:28 //
+
+C0031 F0034 2/19/00 19:29 //
+
+C0031 F0038 2/19/00 19:39 //
+
+C0031 F0059 2/19/00 19:40 //
+
+C0031 F0061 2/19/00 19:41 //
+
+C0051 F0107 2/19/00 20:51 //
+
+C0051 F0107 // 20:51 //
+
